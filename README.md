@@ -59,15 +59,15 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
 - [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Finalize e aprovação.
+- [x] Teste e revise;
+- [x] Documente instruções de uso;
+- [x] Finalize e aprovação.
 
 ## Sprint 2
-- [ ] Documento passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+- [x] Documento passo a passo;
+- [x] Treinamento com os professores;
+- [x] Treinamento com os alunos;
+- [x] Monitoramento e ajustes.
       
 ## Sprint 3
 - [ ] Defina o propósito do template;
